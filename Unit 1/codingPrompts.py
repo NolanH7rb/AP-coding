@@ -18,7 +18,7 @@
 bingo = [10, 30, 1, 6, 99, 45,29]
 
 def sontHiLow(arry,i):
-if arry
+    
 
 bingo.sort()
 
