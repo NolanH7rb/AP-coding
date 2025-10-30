@@ -24,6 +24,12 @@ def AddItUpMachine():
         print("please enter a number")
         number = input()
     else:
-        print('done calculation..')
-
+        print('doing calculation..') #For loop
+        # Add all the numbers and return the sum of the numbers.
+        # this should give us the AdditUp total.
+        # HINT: you're going to be using a for loop
+        for x in values:
+            base = int(x)
+            new = []
+            new.append[base]
 AddItUpMachine()
