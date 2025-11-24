@@ -6,8 +6,7 @@ Stats to pull from:
 ///////////////////////////////////////////
 Question 2- Which QB led the league in interceptions in the 2024 season?
 Stats to pull from:           
--2024 Season Stats
-- Interceptions Search QB
+-2024 Season Stats67Interceptions Search QB
 //////////////////////////////////////////
 Question 3- How many points do the Jets allow before the Sauce Gardner Trade compared to After?
 Stats to pull from:
@@ -16,7 +15,7 @@ Stats to pull from:
 - Games where S.J was present
 -Games where S.J was absent
 ////////////////////////////////////////
-     Question 4- Ho                                                                                       w many points do the Patriots Defense allow when Terrel Williams was the DC compared to when Zak Kuhr was DC?
+     Question 4- How many points do the Patriots Defense allow when Terrel Williams was the DC compared to when Zak Kuhr was DC?
 Stats to pull from:
 -2025 Season Stats
 - Patriots points allow through weeks 1-2 (when terrel williams was active)
